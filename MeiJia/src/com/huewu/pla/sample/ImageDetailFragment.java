@@ -50,6 +50,7 @@ public class ImageDetailFragment extends Fragment {
     private String message;
     private ListView mListView;
     private Handler mHandler;
+    private DuitangInfo  mDuitangInfo;
 
     /**
      * Factory method to generate a new instance of the fragment given an image number.
@@ -65,6 +66,8 @@ public class ImageDetailFragment extends Fragment {
         args.putString(IMAGE_DATA_EXTRA, mInfo.getIsrc());
         args.putString("message",mInfo.getMsg());
         f.setArguments(args);
+        f.mDuitangInfo = mInfo;
+        System.out.println("the size is:"+mInfo.getCommentList().size());
 
         return f;
     }
@@ -106,14 +109,15 @@ public class ImageDetailFragment extends Fragment {
             }
         });
         ArrayList<HashMap<String,String>> list = new ArrayList<HashMap<String,String>>();
-        HashMap<String,String> map = new HashMap<String,String>();
-        map.put("name","维尔港美甲店");
-        map.put("address","万达店");
-        list.add(map);
-        map = new HashMap<String,String>();
-        map.put("name","指缘美甲");
-        map.put("address","洪文五里75之105");
-        list.add(map);
+        
+        for(int i = 0; i < mDuitangInfo.getCommentList().size();i++){
+        	HashMap<String,String> map = new HashMap<String,String>();
+            map.put("name",mDuitangInfo.getCommentList().get(i).getUsername());
+	        map.put("address",mDuitangInfo.getCommentList().get(i).getMessage());
+	        System.out.println("111111111111:" + mDuitangInfo.getCommentList().get(i).getUsername());
+	        list.add(map);
+        }
+        
         VpAdapter adapter = new VpAdapter(getActivity(),list,mHandler);
         mListView.setAdapter(adapter);
 

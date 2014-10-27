@@ -159,7 +159,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name android:mdActiveIndicator
+          @attr name net.simonvt.menudrawer:mdActiveIndicator
         */
         public static final int MenuDrawer_mdActiveIndicator = 3;
         /**
@@ -171,7 +171,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name android:mdContentBackground
+          @attr name net.simonvt.menudrawer:mdContentBackground
         */
         public static final int MenuDrawer_mdContentBackground = 0;
         /**
@@ -183,7 +183,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name android:mdDropShadow
+          @attr name net.simonvt.menudrawer:mdDropShadow
         */
         public static final int MenuDrawer_mdDropShadow = 7;
         /**
@@ -200,7 +200,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name android:mdDropShadowColor
+          @attr name net.simonvt.menudrawer:mdDropShadowColor
         */
         public static final int MenuDrawer_mdDropShadowColor = 6;
         /**
@@ -216,7 +216,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name android:mdDropShadowEnabled
+          @attr name net.simonvt.menudrawer:mdDropShadowEnabled
         */
         public static final int MenuDrawer_mdDropShadowEnabled = 4;
         /**
@@ -234,7 +234,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name android:mdDropShadowSize
+          @attr name net.simonvt.menudrawer:mdDropShadowSize
         */
         public static final int MenuDrawer_mdDropShadowSize = 5;
         /**
@@ -246,7 +246,7 @@ containing a value of this type.
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           <p>This is a private symbol.
-          @attr name android:mdMenuBackground
+          @attr name net.simonvt.menudrawer:mdMenuBackground
         */
         public static final int MenuDrawer_mdMenuBackground = 1;
         /**
@@ -264,7 +264,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name android:mdMenuSize
+          @attr name net.simonvt.menudrawer:mdMenuSize
         */
         public static final int MenuDrawer_mdMenuSize = 2;
         /**
@@ -282,7 +282,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
           <p>This is a private symbol.
-          @attr name android:mdTouchBezelSize
+          @attr name net.simonvt.menudrawer:mdTouchBezelSize
         */
         public static final int MenuDrawer_mdTouchBezelSize = 8;
     };

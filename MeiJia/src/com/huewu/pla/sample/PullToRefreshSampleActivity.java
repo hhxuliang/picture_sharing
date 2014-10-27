@@ -10,6 +10,8 @@ import android.support.v4.app.FragmentActivity;
 import android.util.Log;
 import android.view.*;
 import android.widget.*;
+
+import com.dodola.model.Comment;
 import com.dodola.model.DuitangInfo;
 import com.dodowaterfall.Helper;
 import com.dodowaterfall.widget.ScaleImageView;
@@ -40,7 +42,7 @@ public class PullToRefreshSampleActivity extends FragmentActivity implements IXL
     private int mActivePosition = -1;
     private ListView mList;
     private MenuAdapter mMenuAdapter;
-    private String albumId = "1608832";
+    private String albumId = "60917958";
     private AsyncImageLoader mAsyncImageLoader;
 
     private class ContentTask extends AsyncTask<String, Integer, List<DuitangInfo>> {
@@ -112,6 +114,16 @@ public class PullToRefreshSampleActivity extends FragmentActivity implements IXL
                         newsInfo1.setIsrc(newsInfoLeftObject.isNull("isrc") ? "" : newsInfoLeftObject.getString("isrc"));
                         newsInfo1.setMsg(newsInfoLeftObject.isNull("msg") ? "" : newsInfoLeftObject.getString("msg"));
                         newsInfo1.setHeight(newsInfoLeftObject.getInt("iht"));
+                        JSONArray commentJson = newsInfoLeftObject.getJSONArray("cmts");
+                        newsInfo1.setCommentList(new ArrayList<Comment>());
+                        for (int j = 0; j < commentJson.length(); j++) {
+                        	JSONObject commentObject = commentJson.getJSONObject(j);
+                        	Comment c = new Comment(); 
+                        	c.setID(commentObject.isNull("id") ? "" : commentObject.getString("id"));
+                        	c.setMessage(commentObject.isNull("cont") ? "" : commentObject.getString("cont"));
+                        	c.setUsername(commentObject.isNull("name") ? "" : commentObject.getString("name"));
+                        	newsInfo1.getCommentList().add(c);
+                        }
                         duitangs.add(newsInfo1);
                     }
                 }
@@ -234,14 +246,18 @@ public class PullToRefreshSampleActivity extends FragmentActivity implements IXL
         mMenuDrawer.setContentView(R.layout.act_pull_to_refresh_sample);
 
         List<Object> items = new ArrayList<Object>();
+        items.add(new Category("全部图片"));
         items.add(new Item("热门", R.drawable.ic_action_refresh_dark));
         items.add(new Item("最新", R.drawable.ic_action_refresh_dark));
-        items.add(new Category("风格"));
-        items.add(new Item("欧美", R.drawable.ic_action_select_all_dark));
-        items.add(new Item("日韩", R.drawable.ic_action_select_all_dark));
-        items.add(new Category("其他"));
+        items.add(new Category("我们学校"));
+        items.add(new Item("热门", R.drawable.ic_action_select_all_dark));
+        items.add(new Item("最新", R.drawable.ic_action_select_all_dark));
+        items.add(new Category("我们班级"));
+        items.add(new Item("热门", R.drawable.ic_action_select_all_dark));
+        items.add(new Item("最新", R.drawable.ic_action_select_all_dark));
+        items.add(new Category("我的发布"));
+        items.add(new Item("全部", R.drawable.ic_action_select_all_dark));
         items.add(new Item("相机", R.drawable.camera));
-        items.add(new Item("更多", R.drawable.ic_action_select_all_dark));
 
         // A custom ListView is needed so the drawer can be notified when it's scrolled. This is to update the position
         // of the arrow indicator.
@@ -292,9 +308,10 @@ public class PullToRefreshSampleActivity extends FragmentActivity implements IXL
             mActivePosition = position;
             mMenuDrawer.setActiveView(view, position);
             mMenuDrawer.closeMenu();
+            System.out.println("currentPage is:"+currentPage);
             switch (position){
                 case 0:
-                    albumId = "4147555";
+                    albumId = "60917958";
                     AddItemToContainer(++currentPage,1,albumId);
                     break;
                 case 1:
