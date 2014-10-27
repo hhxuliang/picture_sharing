@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/dodola/model/DuitangInfo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/dodowaterfall/Constants.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/dodowaterfall/Helper.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/dodowaterfall/Helper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/dodowaterfall/widget/FlowView.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/huewu/pla/sample/ImageDetailFragment.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/huewu/pla/sample/PullToRefreshSampleActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/huewu/pla/sample/VpAdapter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/zoom/ZoomImageView.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/me/maxwin/view/XListViewHeader.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/../../../android-menudrawer-master/library" charset="UTF-8" />
+  </component>
+</project>
+

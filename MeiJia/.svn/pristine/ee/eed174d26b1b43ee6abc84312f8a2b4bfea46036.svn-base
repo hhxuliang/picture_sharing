@@ -1,0 +1,1148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidDesignerProfile">
+    <option name="fullProfile">
+      <profile>
+        <option name="device" value="2.7in QVGA" />
+        <option name="deviceConfiguration" value="Portrait" />
+        <option name="targetHashString" value="android-16" />
+        <option name="theme" value="AppTheme" />
+      </profile>
+    </option>
+    <option name="selection" value="[Full]" />
+  </component>
+  <component name="AndroidLayoutPreviewToolWindow">
+    <option name="state">
+      <GlobalState>
+        <option name="device" value="2.7in QVGA" />
+        <option name="dockMode" value="" />
+        <option name="nightMode" value="notnight" />
+        <option name="targetHashString" value="android-16" />
+        <option name="theme" value="AppTheme" />
+      </GlobalState>
+    </option>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="25dbebf2-2a37-4f2c-9a40-507f3342b355" name="Default" comment="" />
+    <ignored path="PinterestLikeAdapterView-master.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/fragment.java" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387199759808" ignored="false" />
+    <file path="/PullToRefreshSampleActivity.java" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387201348220" ignored="false" />
+    <file path="$PROJECT_DIR$/library/src/net/simonvt/menudrawer/MenuDrawer.java" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387000461215" ignored="false" />
+    <file path="$PROJECT_DIR$/library/src/net/simonvt/menudrawer/DraggableDrawer.java" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387000461215" ignored="false" />
+    <file path="/a.dummy" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387200474416" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../android-menudrawer-master/library/gen/net/simonvt/menudrawer/R.java" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387001010559" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../android-menudrawer-master/library/gen/net/simonvt/menudrawer/Manifest.java" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387001010559" ignored="false" />
+    <file path="$PROJECT_DIR$/untitled/res/values/strings.xml" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387003916231" ignored="false" />
+    <file path="/DummyFile.xpath" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387004093951" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../bitmapfun/gen/com/example/android/bitmapfun/BuildConfig.java" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387025347079" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../android/EPGSqxgd/src/com/eqgs/android/qxgd/fundation/Utils.java" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387189753831" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../android/EPGSqxgd/res/values/strings.xml" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387026231617" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../android/EPGSqxgd/gen/com/eqgs/android/qxgd/BuildConfig.java" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387026249399" ignored="false" />
+    <file path="/DuitangInfo.java" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387027282965" ignored="false" />
+    <file path="/ImageDetailActivity.java" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387040936708" ignored="false" />
+    <file path="/Utils.java" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387027645544" ignored="false" />
+    <file path="/AndroidManifest.xml" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387028926647" ignored="false" />
+    <file path="/image_detail_fragment.xml" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387191412737" ignored="false" />
+    <file path="/image_detail_pager.xml" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387196483673" ignored="false" />
+    <file path="/styles.xml" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387176027638" ignored="false" />
+    <file path="/dimens.xml" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387187206400" ignored="false" />
+    <file path="/ImageDetailFragment.java" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387198321026" ignored="false" />
+    <file path="$USER_HOME$/.IntelliJIdea12/system/compile-server/sample_28d6b1d5/targets/java-production/Sample/android/generated_sources/aidl/com/sina/sso/RemoteSSO.java" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387036350613" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ShareSDK超级强大的社会化分享/Sample/src/cn/sharesdk/demo/WechatPage.java" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387036575655" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ShareSDK超级强大的社会化分享/Sample/src/cn/sharesdk/demo/AuthPage.java" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387036575655" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ShareSDK超级强大的社会化分享/Sample/src/cn/sharesdk/demo/MainActivity.java" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387036575655" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ShareSDK超级强大的社会化分享/Sample/build.xml" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387036575655" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ShareSDK超级强大的社会化分享/Sample/src/cn/sharesdk/demo/JsonUtils.java" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387036575655" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ShareSDK超级强大的社会化分享/Sample/project.properties" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387036575655" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ShareSDK超级强大的社会化分享/Sample/src/cn/sharesdk/demo/JsonPage.java" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387036575655" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ShareSDK超级强大的社会化分享/Sample/src/cn/sharesdk/demo/OneKeyShareCallback.java" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387036575655" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ShareSDK超级强大的社会化分享/Sample/src/cn/sharesdk/demo/ShareContentCustomizeDemo.java" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387036575655" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ShareSDK超级强大的社会化分享/Sample/src/cn/sharesdk/demo/GetInforPage.java" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387036575655" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ShareSDK超级强大的社会化分享/Sample/src/cn/sharesdk/demo/GetTokenPage.java" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387036575655" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ShareSDK超级强大的社会化分享/Sample/src/cn/sharesdk/demo/MainAdapter.java" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387036575655" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ShareSDK超级强大的社会化分享/Sample/src/cn/sharesdk/demo/MyAdapter.java" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387036575655" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ShareSDK超级强大的社会化分享/Sample/src/cn/sharesdk/demo/DemoPage.java" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387036575655" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ShareSDK超级强大的社会化分享/Sample/AndroidManifest.xml" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387036575655" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ShareSDK超级强大的社会化分享/Sample/src/cn/sharesdk/demo/SlidingMenuPage.java" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387036575655" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ShareSDK超级强大的社会化分享/Sample/src/cn/sharesdk/demo/CustomerPage.java" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387036575655" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ShareSDK超级强大的社会化分享/Sample/src/cn/sharesdk/demo/wxapi/WXEntryActivity.java" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387036575655" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ShareSDK超级强大的社会化分享/Sample/src/cn/sharesdk/onekeyshare/CustomerLogo.java" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387036575655" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ShareSDK超级强大的社会化分享/Sample/src/cn/sharesdk/onekeyshare/EditPage.java" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387036575655" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ShareSDK超级强大的社会化分享/Sample/src/cn/sharesdk/onekeyshare/PicViewer.java" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387036575655" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ShareSDK超级强大的社会化分享/Sample/src/cn/sharesdk/onekeyshare/PlatformGridView.java" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387036575655" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ShareSDK超级强大的社会化分享/Sample/src/cn/sharesdk/onekeyshare/OnekeyShare.java" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387036575655" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ShareSDK超级强大的社会化分享/Sample/src/cn/sharesdk/onekeyshare/ShareCore.java" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387036575655" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ShareSDK超级强大的社会化分享/Sample/src/cn/sharesdk/onekeyshare/FollowList.java" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387036575655" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ShareSDK超级强大的社会化分享/Sample/res/layout/auth_page_item.xml" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387036575655" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ShareSDK超级强大的社会化分享/Sample/src/cn/sharesdk/onekeyshare/ShareContentCustomizeCallback.java" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387036575655" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ShareSDK超级强大的社会化分享/Sample/res/layout/page_show_user_info.xml" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387036575655" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ShareSDK超级强大的社会化分享/Sample/res/layout/page_get_user_info.xml" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387036575655" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ShareSDK超级强大的社会化分享/Sample/res/layout/page_get_friend_list.xml" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387036575655" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ShareSDK超级强大的社会化分享/Sample/res/layout/page_get_friend_list_item.xml" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387036575655" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ShareSDK超级强大的社会化分享/Sample/res/layout/page_customer.xml" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387036575655" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ShareSDK超级强大的社会化分享/Sample/res/layout/button_list_item.xml" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387036575655" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ShareSDK超级强大的社会化分享/Sample/res/layout/page_get_access_token.xml" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387036575655" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ShareSDK超级强大的社会化分享/Sample/res/layout/demo_page_item.xml" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387036575655" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ShareSDK超级强大的社会化分享/Sample/res/values/oks_strings.xml" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387036575655" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ShareSDK超级强大的社会化分享/Sample/res/values/styles.xml" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387036575655" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ShareSDK超级强大的社会化分享/Sample/res/values/ssdk_strings.xml" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387036575655" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ShareSDK超级强大的社会化分享/Sample/res/values/colors.xml" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387036575655" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ShareSDK超级强大的社会化分享/Sample/res/values/strings.xml" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387036575655" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ShareSDK超级强大的社会化分享/Sample/res/drawable/auth_cb.xml" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387036575655" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ShareSDK超级强大的社会化分享/Sample/res/drawable/cb_drw.xml" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387036575655" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ShareSDK超级强大的社会化分享/Sample/res/drawable/btn_back.xml" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387036575655" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ShareSDK超级强大的社会化分享/Sample/res/values-en/oks_strings.xml" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387036575655" ignored="false" />
+    <file path="$PROJECT_DIR$/../../ShareSDK超级强大的社会化分享/Sample/res/values-en/ssdk_strings.xml" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387036575656" ignored="false" />
+    <file path="/ZoomImageView.java" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387041708051" ignored="false" />
+    <file path="$PROJECT_DIR$/../../仿去哪儿首页UI设计/producer/src/com/example/producer/MainActivity.java" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387154775412" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../android/EPGSqxgd/res/layout/detail_info3.xml" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387158036140" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../android/EPGSqxgd/src/com/eqgs/android/qxgd/tisp/layout/login/LoginActivity.java" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387165359721" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../android/EPGSqxgd/src/com/eqgs/android/qxgd/tisp/action/synchronous/SynchronousProgressAction.java" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387173228853" ignored="false" />
+    <file path="/SynchronousProgressAction.java" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387165296640" ignored="false" />
+    <file path="/LoginActivity.java" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387165349228" ignored="false" />
+    <file path="$USER_HOME$/AppData/Local/Temp/android_manifest_copy493262131941943031tmp/AndroidManifest.xml" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387165387248" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../android/EPGSqxgd/src/com/eqgs/android/qxgd/tisp/layout/taskcollect/DetailActivity.java" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387189753831" ignored="false" />
+    <file path="/favorite_radio.xml" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387175588590" ignored="false" />
+    <file path="/enjoy_radio.xml" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387175650750" ignored="false" />
+    <file path="/menu_row_category.xml" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387181275257" ignored="false" />
+    <file path="/menu_row_item.xml" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387181321826" ignored="false" />
+    <file path="/act_pull_to_refresh_sample.xml" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387181540898" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../android/EPGSqxgd/res/layout/detail_info5.xml" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387189340167" ignored="false" />
+    <file path="/detail_info5.xml" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387189340167" ignored="false" />
+    <file path="/Dummy.txt" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387189933427" ignored="false" />
+    <file path="/VpAdapter.java" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387198423670" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../../android/EPGSqxgd/res/values/styles.xml" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387195558314" ignored="false" />
+    <file path="/worklist.xml" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387196025090" ignored="false" />
+    <file path="/view2.xml" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387196733367" ignored="false" />
+    <file path="$PROJECT_DIR$/gen/com/huewu/pla/sample/R.java" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387200128461" ignored="false" />
+    <file path="$PROJECT_DIR$/src/com/huewu/pla/lib/internal/PLA_AbsListView.java" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387200561024" ignored="false" />
+    <file path="$PROJECT_DIR$/src/com/huewu/pla/lib/internal/PLA_AdapterView.java" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387200561025" ignored="false" />
+    <file path="$PROJECT_DIR$/src/com/huewu/pla/lib/internal/PLA_ListView.java" changelist="25dbebf2-2a37-4f2c-9a40-507f3342b355" time="1387200561025" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="PinterestLikeAdapterView-master" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="PullToRefreshSampleActivity.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/huewu/pla/sample/PullToRefreshSampleActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="146" column="80" selection-start="5200" selection-end="5200" vertical-scroll-proportion="0.38274932">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FlowView.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/dodowaterfall/widget/FlowView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="28" selection-start="403" selection-end="403" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styles.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/values/styles.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="63" column="17" selection-start="2566" selection-end="2566" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CrashApplication.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/huewu/pla/CrashApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="13" selection-start="137" selection-end="137" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Helper.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/dodowaterfall/Helper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="13" selection-start="506" selection-end="506" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ImageDetailFragment.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/huewu/pla/sample/ImageDetailFragment.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="113" column="31" selection-start="4173" selection-end="4173" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VpAdapter.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/huewu/pla/sample/VpAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="35" column="0" selection-start="893" selection-end="893" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ZoomImageView.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/zoom/ZoomImageView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="147" column="7" selection-start="4869" selection-end="4869" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Constants.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/dodowaterfall/Constants.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="8" selection-start="340" selection-end="340" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="XListViewHeader.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/me/maxwin/view/XListViewHeader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="52" column="44" selection-start="1332" selection-end="1332" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="C:\Users\leohak\Documents\test" />
+    <option name="KEY_ALIAS" value="test" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/res/values/dimens.xml" />
+        <option value="$PROJECT_DIR$/res/layout/worklist.xml" />
+        <option value="$PROJECT_DIR$/res/layout/image_detail_pager.xml" />
+        <option value="$PROJECT_DIR$/res/layout/view2.xml" />
+        <option value="$PROJECT_DIR$/src/com/huewu/pla/AsyncImageLoader.java" />
+        <option value="$PROJECT_DIR$/src/com/huewu/pla/CrashHandler.java" />
+        <option value="$PROJECT_DIR$/src/com/dodola/model/DuitangInfo.java" />
+        <option value="$USER_HOME$/.IntelliJIdea12/system/compile-server/pinterestlikeadapterview-master_b8afe705/targets/java-production/PinterestLikeAdapterView-master/android/generated_sources/aapt/net/simonvt/menudrawer/R.java" />
+        <option value="$PROJECT_DIR$/src/com/dodowaterfall/Helper.java" />
+        <option value="$PROJECT_DIR$/src/com/huewu/pla/sample/ImageDetailFragment.java" />
+        <option value="$PROJECT_DIR$/src/com/huewu/pla/sample/VpAdapter.java" />
+        <option value="$PROJECT_DIR$/src/com/zoom/ZoomImageView.java" />
+        <option value="$PROJECT_DIR$/src/com/dodowaterfall/Constants.java" />
+        <option value="$PROJECT_DIR$/src/me/maxwin/view/XListViewHeader.java" />
+        <option value="$PROJECT_DIR$/src/com/dodowaterfall/widget/FlowView.java" />
+        <option value="$PROJECT_DIR$/src/com/huewu/pla/sample/PullToRefreshSampleActivity.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1320" />
+    <option name="height" value="780" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectStructureProblems">
+    <ignored-problems>
+      <problem id="unused-library(library:project:menudrawerlibrary)" />
+    </ignored-problems>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PinterestLikeAdapterView-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PinterestLikeAdapterView-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PinterestLikeAdapterView-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PinterestLikeAdapterView-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PinterestLikeAdapterView-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="view" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PinterestLikeAdapterView-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PinterestLikeAdapterView-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zoom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PinterestLikeAdapterView-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PinterestLikeAdapterView-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pla" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PinterestLikeAdapterView-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PinterestLikeAdapterView-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pla" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PinterestLikeAdapterView-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PinterestLikeAdapterView-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pla" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PinterestLikeAdapterView-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PinterestLikeAdapterView-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="util" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PinterestLikeAdapterView-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PinterestLikeAdapterView-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dodowaterfall" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PinterestLikeAdapterView-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PinterestLikeAdapterView-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="model" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PinterestLikeAdapterView-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PinterestLikeAdapterView-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PinterestLikeAdapterView-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PinterestLikeAdapterView-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PinterestLikeAdapterView-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PinterestLikeAdapterView-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PinterestLikeAdapterView-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PinterestLikeAdapterView-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drawable-hdpi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PinterestLikeAdapterView-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PinterestLikeAdapterView-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drawable" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PinterestLikeAdapterView-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.lastSelected" value="File.Encoding" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../android-menudrawer-master/library" />
+    <property name="AndroidLayoutSelectedEditor" value="text-editor" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="5b476516" />
+    <property name="GoToClass.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="4.2.2" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.huewu.pla" />
+      <recent name="com.huewu.pla.sample" />
+      <recent name="com.zoom" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\souceCode\demo\Agodcode\android瀑布流效果，支持下拉刷新\PinterestLikeAdapterView-master\res\drawable-hdpi" />
+      <recent name="D:\souceCode\demo\Agodcode\android瀑布流效果，支持下拉刷新\PinterestLikeAdapterView-master\res\drawable" />
+      <recent name="D:\souceCode\demo\Agodcode\android瀑布流效果，支持下拉刷新\PinterestLikeAdapterView-master\res" />
+      <recent name="D:\souceCode\demo\Agodcode\android瀑布流效果，支持下拉刷新\PinterestLikeAdapterView-master\src\com\huewu\pla" />
+      <recent name="D:\souceCode\demo\Agodcode\android瀑布流效果，支持下拉刷新\PinterestLikeAdapterView-master\src\com\example\android\bitmapfun\util" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\souceCode\demo\Agodcode\android瀑布流效果，支持下拉刷新\PinterestLikeAdapterView-master\res\layout" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android Application.PinterestLikeAdapterView-master">
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="PinterestLikeAdapterView-master" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="PinterestLikeAdapterView-master" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <RunnerSettings RunnerId="AndroidDebugRunner" />
+      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="untitled" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="untitled" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Android Application.PinterestLikeAdapterView-master" />
+      <item index="1" class="java.lang.String" itemvalue="Android Application.untitled" />
+    </list>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <configuration useDefault="false">C:\Users\leohak\AppData\Roaming\Subversion</configuration>
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25dbebf2-2a37-4f2c-9a40-507f3342b355" name="Default" comment="" />
+      <created>1386995785452</created>
+      <updated>1386995785452</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1320" height="780" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32961783" sideWeight="0.67145133" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39872408" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32744783" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.32744783" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" x="-1366" y="95" width="1258" height="885" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24960254" sideWeight="0.6741573" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3258427" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290938" sideWeight="0.67255217" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290938" sideWeight="0.67255217" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290938" sideWeight="0.67255217" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32744783" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="XPathView.XPathProjectComponent">
+    <history />
+    <find-history />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/huewu/pla/sample/ImageDetailActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="43" selection-start="2086" selection-end="2086" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/huewu/pla/sample/RecyclingImageView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="13" selection-start="1030" selection-end="1030" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/huewu/pla/AsyncImageLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="13" selection-start="293" selection-end="293" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dodola/model/DuitangInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="30" selection-start="965" selection-end="965" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.IntelliJIdea12/system/compile-server/pinterestlikeadapterview-master_b8afe705/targets/java-production/PinterestLikeAdapterView-master/android/generated_sources/aapt/net/simonvt/menudrawer/R.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1783" column="38" selection-start="93612" selection-end="93624" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/image_detail_pager.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="36" selection-start="922" selection-end="922" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="63" column="17" selection-start="2566" selection-end="2566" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/huewu/pla/CrashApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="13" selection-start="137" selection-end="137" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dodowaterfall/Helper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="13" selection-start="506" selection-end="506" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/huewu/pla/sample/ImageDetailFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="113" column="31" selection-start="4173" selection-end="4173" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/huewu/pla/sample/VpAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="0" selection-start="893" selection-end="893" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zoom/ZoomImageView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="147" column="7" selection-start="4869" selection-end="4869" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dodowaterfall/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="8" selection-start="340" selection-end="340" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/me/maxwin/view/XListViewHeader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="52" column="44" selection-start="1332" selection-end="1332" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dodowaterfall/widget/FlowView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="28" selection-start="403" selection-end="403" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/huewu/pla/sample/PullToRefreshSampleActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="146" column="80" selection-start="5200" selection-end="5200" vertical-scroll-proportion="0.38274932">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>Android 4.1.2 Platform</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>PinterestLikeAdapterView-master</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>Android 4.1.2 Platform</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>android-support-v4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+

@@ -1,0 +1,26 @@
+package com.huewu.pla;
+
+import android.app.Application;
+import com.dodola.model.DuitangInfo;
+
+import java.util.LinkedList;
+
+public class CrashApplication extends Application {
+    public LinkedList<DuitangInfo> getmInfos() {
+        return mInfos;
+    }
+
+    public void setmInfos(LinkedList<DuitangInfo> mInfos) {
+        this.mInfos = mInfos;
+    }
+
+    private LinkedList<DuitangInfo> mInfos;
+
+	@Override
+	public void onCreate() {
+		super.onCreate();
+//		CrashHandler crashHandler = CrashHandler.getInstance();
+//		crashHandler.init(getApplicationContext());
+	}
+
+}
